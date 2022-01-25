@@ -21,7 +21,7 @@ public class StudentList {
 //        System.out.print(studentList[i].getStudentName());
 //    }
 
-        student[] studentList = new student[3];
+        student[] studentList = new student[4];
         studentList[0] = new student ("s1","Ronak Sheth");
         studentList[1] = new student ("s2","John Doe");
         studentList[2] = new student ("s3","Abc");
